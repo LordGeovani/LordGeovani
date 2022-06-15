@@ -1,4 +1,5 @@
-😁 Olá, eu sou o Geovani 👋<br>
+😁 Olá, eu sou o Geovani 👋
+##
 💻 Desenvolvedor Web<br>
 📚 Sempre em busca de novos aprendizados<br>
 🎶 No princípio era trevas, minha mente tava a anos luz!<br>
