@@ -3,7 +3,7 @@
 💻 Desenvolvedor Web<br>
 📚 Sempre em busca de novos aprendizados<br>
 🎶 No princípio era trevas, minha mente tava a anos luz!<br>
-🏀 Apaixonado por basquete<br>
+🏀 Apaixonado por basquete<br><br>
 
 <div align="center">
   <a href="https://github.com/LordGeovani">
