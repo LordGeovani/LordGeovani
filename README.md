@@ -1,6 +1,5 @@
 😁 Olá, eu sou o Geovani 👋
-
-💻 Desenvolvedor Web<br>
+💻 Desenvolvedor Web
 📚 Sempre em busca de novos aprendizados<br>
 🎶 No princípio era trevas, minha mente tava a anos luz!<br>
 🏀 Apaixonado por basquete<br><br>
