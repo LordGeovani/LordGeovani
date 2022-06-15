@@ -1,5 +1,10 @@
 😁 Olá, eu sou o Geovani 👋
 
+💻 Desenvolvedor Web<br>
+📚 Sempre em busca de novos aprendizados<br>
+🎶 No princípio era trevas, minha mente tava a anos luz!<br>
+🏀 Apaixonado por basquete<br>
+
 <div align="center">
   <a href="https://github.com/LordGeovani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordGeovani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
