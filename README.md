@@ -1,6 +1,6 @@
 😁 Olá, eu sou o Geovani 👋
 ##
-🧑‍💻 Desenvolvedor Web<br>
+💻 Desenvolvedor Web<br>
 💻 Amante da tecnologia<br>
 👨‍🎓 Cursando Desenvolvimento de Sistemas na ETEC Jardim Ângela<br>
 📚 Sempre em busca de novos aprendizados<br>
