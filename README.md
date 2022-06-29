@@ -2,7 +2,7 @@
 ##
 💻 Desenvolvedor Web<br>
 💻 Amante da tecnologia<br>
-👨‍🎓 Cursando Desenvolvimento de Sistemas na ETEC Jardim Ângela<br>
+👨‍🎓 Técnico em Desenvolvimento de Sistemas<br>
 📚 Sempre em busca de novos aprendizados<br>
 🎶 No princípio era trevas, minha mente tava a anos luz!<br>
 🏀 Apaixonado por basquete<br><br>
